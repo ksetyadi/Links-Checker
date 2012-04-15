@@ -11,3 +11,7 @@ $ python links_checker.py [the url]
 Example
 -------
 $ python links_checker.py http://ksetyadi.com
+
+LICENSE
+-------
+This work is licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
